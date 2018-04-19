@@ -1,0 +1,1 @@
+db.CompanyConfig.insertOne({id: 1,companyName: "Cigna",productOffering: {id: 1,company_id: 1,name: "Life 101",minAge: 25,maxAge: 60,group: true,underwriting: true,effectiveDate: 2015-12-24,status: "Active",description: "A basic Life Insurance Plan",allowPort: false}})
