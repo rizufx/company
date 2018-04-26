@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.qinsol.insbot</groupId>
-	<artifactId>nbapp</artifactId>
+	<groupId>com.qinsol.marketbot</groupId>
+	<artifactId>supplier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>nbapp</name>
-	<description>Demo project for Spring Boot</description>
+	<name>supplier</name>
+	<description>Supplier Microservice</description>
 
 	<parent> 
 		<groupId>org.springframework.boot</groupId>
